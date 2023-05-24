@@ -1,1 +1,1 @@
-# Restaurant-MERN-App
+# Restaurant MERN Application
